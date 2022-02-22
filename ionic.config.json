@@ -1,0 +1,8 @@
+{
+  "name": "photoag",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3cec43bd"
+}

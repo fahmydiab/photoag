@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "photoag",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
